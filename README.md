@@ -5,9 +5,10 @@
 * Chatbot App -> backend (NodeJs), frontend(ReactJs), DB(MongoDb)
 * UI component library is Material UI
 * I have use Open AI for generate new questions
+* ORM model Mongoose
 
 
-* --Sample images app--
+## --Sample images app--
   
 <img width="1252" alt="image-1" src="https://github.com/user-attachments/assets/02053861-1d0a-4f8c-8e20-b400b5810d8c">
 <img width="1496" alt="image-2" src="https://github.com/user-attachments/assets/d92c1f32-5b96-4f7c-bd94-718fd652bb3c">
