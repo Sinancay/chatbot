@@ -26,6 +26,6 @@
 
 ### Usage
 
-App logic ask 10 questions become with document after that Open AI generate new questions.
-These new questions should be added questions table. Session table shows question id and answer text.
-End session info should be added in table after destroy session (browser tab closed). 
+* App logic ask 10 questions become with document after that Open AI generate new questions.
+* These new questions should be added questions table. Session table shows question id and answer text.
+* End session info should be added in table after destroy session (browser tab closed). 
